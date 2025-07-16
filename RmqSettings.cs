@@ -1,4 +1,4 @@
-namespace Pcf.Infrastructure.RabbitMq
+namespace Infrastructure.RabbitMq
 {    
     public class RmqSettings
     {

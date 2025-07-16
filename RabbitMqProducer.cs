@@ -2,7 +2,7 @@
 using System.Text.Json;
 using RabbitMQ.Client;
 
-namespace Pcf.Infrastructure.RabbitMq;
+namespace Infrastructure.RabbitMq;
 
 public class RabbitMqProducer<TMessage> : IRabbitMqProducer<TMessage>
 {

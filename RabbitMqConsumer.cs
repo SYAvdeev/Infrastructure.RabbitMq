@@ -1,7 +1,7 @@
 ﻿using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace Pcf.Infrastructure.RabbitMq;
+namespace Infrastructure.RabbitMq;
 
 public abstract class RabbitMqConsumer : IRabbitMqConsumer
 {

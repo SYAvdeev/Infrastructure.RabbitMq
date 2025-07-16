@@ -1,6 +1,6 @@
 using RabbitMQ.Client;
 
-namespace Pcf.Infrastructure.RabbitMq;
+namespace Infrastructure.RabbitMq;
 
 public interface IRabbitMqConsumer
 {
